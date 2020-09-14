@@ -15,3 +15,4 @@
 
     HTML5, CSS3, angular, jQuery
     jQuery, Modernizr
+ AWS google cloud, azure
