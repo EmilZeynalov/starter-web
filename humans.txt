@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Emil Zeynalov -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    <name> 
 
 # TECHNOLOGY COLOPHON
 
