@@ -8,3 +8,9 @@ Sample website with plenty of files for demos
 
 ## GIT and GitHub training
 a lot of lectures are submitted
+
+##Git comparisom
+adding comparisom lectures
+
+## GitHub content
+comparison with repository
