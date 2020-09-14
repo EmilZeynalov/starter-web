@@ -14,3 +14,6 @@ adding comparisom lectures
 
 ## GitHub content
 comparison with repository
+
+## contribution
+fork the repository and raise pull request
