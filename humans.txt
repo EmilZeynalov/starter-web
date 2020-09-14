@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Emil Zeynalov -- <role> -- <twitter>
+   Emil Zeynalov
+   SDET
+   DEVOPS engineer
 
 # THANKS
 
