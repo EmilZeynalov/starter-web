@@ -4,7 +4,6 @@
 # TEAM
 
    Emil Zeynalov
-   SDET
    DEVOPS engineer
 
 # THANKS
@@ -15,4 +14,6 @@
 
     HTML5, CSS3, angular, jQuery
     jQuery, Modernizr
+
  AWS google cloud, azure
+
