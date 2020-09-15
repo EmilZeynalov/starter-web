@@ -10,7 +10,7 @@ Hi, I am modifying the file before rebase
 
 # THANKS
 
-    <name> 
+    Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
