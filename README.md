@@ -11,6 +11,7 @@ a lot of lectures are submitted
 
 ##Git comparisom
 adding comparisom lectures
+Adding stash lectures
 
 ## GitHub content
 comparison with repository
